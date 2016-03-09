@@ -9,5 +9,3 @@
 **status** working.
 
 ![image](http://i.imgur.com/71hhWm2.png)
-
-**notes** 
